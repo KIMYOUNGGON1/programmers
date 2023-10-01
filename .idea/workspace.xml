@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="228d5f81-b1a3-41ea-acee-6194c4dc3805" name="Changes" comment="" />
+    <list default="true" id="228d5f81-b1a3-41ea-acee-6194c4dc3805" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/MultipleOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/MultipleOfN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/ProductAndSumOfTheElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/ProductAndSumOfTheElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/StringToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/StringToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/StringToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/StringToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/TheFirstNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/TheFirstNegativeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_20230927/TransformingTheSequenceAccordingToTheCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_20230927/TransformingTheSequenceAccordingToTheCondition.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Vy2vUI4dNxLYVnONtpc50uDuQt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,14 +38,94 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.TransformingTheSequenceAccordingToTheCondition">
+    <configuration name="ProductAndSumOfTheElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20230927.ProductAndSumOfTheElements" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20230927.StringToLowerCase" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20230927.StringToUpperCase" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheFirstNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20230927.TheFirstNegativeNumber" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformingTheSequenceAccordingToTheCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20230927.TransformingTheSequenceAccordingToTheCondition" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransformingTheSequenceAccordingToTheCondition" />
+        <item itemvalue="Application.TheFirstNegativeNumber" />
+        <item itemvalue="Application.StringToUpperCase" />
+        <item itemvalue="Application.StringToLowerCase" />
+        <item itemvalue="Application.ProductAndSumOfTheElements" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695794232619</updated>
+      <workItem from="1695794234057" duration="4236000" />
+      <workItem from="1695870631426" duration="230000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
