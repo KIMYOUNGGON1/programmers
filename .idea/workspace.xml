@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228d5f81-b1a3-41ea-acee-6194c4dc3805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice_20231002/PrintInUppercaseAndLowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_20231004/ConcatenateAndPrintTheStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_20231004/PrintAnAdditionEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_20231004/RotateTheString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,33 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintInUppercaseAndLowercase">
+  <component name="RunManager" selected="Application.RotateTheString">
+    <configuration name="ConcatenateAndPrintTheStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20231004.ConcatenateAndPrintTheStrings" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20231004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintAnAdditionEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20231004.PrintAnAdditionEquation" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_20231004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintInUppercaseAndLowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice_20231002.PrintInUppercaseAndLowercase" />
       <module name="programmers" />
@@ -60,38 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_20230927.StringToLowerCase" />
+    <configuration name="RotateTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20231004.RotateTheString" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_20230927.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_20230927.StringToUpperCase" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice_20230927.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheFirstNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_20230927.TheFirstNegativeNumber" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice_20230927.*" />
+          <option name="PATTERN" value="practice_20231004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateTheString" />
+        <item itemvalue="Application.ConcatenateAndPrintTheStrings" />
+        <item itemvalue="Application.PrintAnAdditionEquation" />
         <item itemvalue="Application.PrintInUppercaseAndLowercase" />
         <item itemvalue="Application.TransformingTheSequenceAccordingToTheCondition" />
-        <item itemvalue="Application.TheFirstNegativeNumber" />
-        <item itemvalue="Application.StringToUpperCase" />
-        <item itemvalue="Application.StringToLowerCase" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +136,7 @@
       <workItem from="1695870631426" duration="230000" />
       <workItem from="1696140360840" duration="3512000" />
       <workItem from="1696235780108" duration="1694000" />
+      <workItem from="1696377189523" duration="1445000" />
     </task>
     <servers />
   </component>
