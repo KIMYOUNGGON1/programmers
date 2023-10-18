@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228d5f81-b1a3-41ea-acee-6194c4dc3805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice_20231017/RollingTheDiceGame_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_20231017/TheConcatenatedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_20231018/LastTwoElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +47,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TheConcatenatedNumbers">
-    <configuration name="ConditionalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_20231016.ConditionalString" />
+  <component name="RunManager" selected="Application.LastTwoElements">
+    <configuration name="HandleTheCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20231016.HandleTheCode" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleTheCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_20231016.HandleTheCode" />
+    <configuration name="LastTwoElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_20231018.LastTwoElements" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_20231016.*" />
+          <option name="PATTERN" value="practice_20231018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastTwoElements" />
         <item itemvalue="Application.TheConcatenatedNumbers" />
         <item itemvalue="Application.RollingTheDiceGame_2" />
         <item itemvalue="Application.HandleTheCode" />
         <item itemvalue="Application.ReturnDifferentValuesBasedOnAFlag" />
-        <item itemvalue="Application.ConditionalString" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +140,8 @@
       <workItem from="1696551365274" duration="1256000" />
       <workItem from="1696900580818" duration="6811000" />
       <workItem from="1697417316813" duration="5740000" />
-      <workItem from="1697508994624" duration="1386000" />
+      <workItem from="1697508994624" duration="1658000" />
+      <workItem from="1697595814646" duration="1322000" />
     </task>
     <servers />
   </component>
